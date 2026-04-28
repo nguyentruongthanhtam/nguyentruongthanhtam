@@ -11,52 +11,12 @@
 -  A Salesforce Lightning component made with Angular, Lightning desgin system. (+3 years)
 
 ### Technologies
-<div>
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img src="https://skillicons.dev/icons?i=angular,vue,react,ts,html,css,sass,js,php,python,flutter" />
+<img src="https://skillicons.dev/icons?i=redux,nuxtjs,mongodb,mysql,nodejs,git,electron" />
+<img src="https://skillicons.dev/icons?i=firebase,bitbucket,azure,googlecloud,wordpress" />
+<img src="https://skills.syvixor.com/api/icons?i=socketio,storybook,bootstrap,bulma,materialdesign,confluence,jira" />
+<img src="https://skills.syvixor.com/api/icons?i=githubcopilot,claudeai,grok,chatgpt,googlegemini" />
 
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-</div>
-<div>
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />  
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-</div>
-<div>
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
-  <img width=64 height=64 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Material_Design_Logo.svg/512px-Google_Material_Design_Logo.svg.png?20170303121655" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-</div>
-
-### Learning 
-
-<div>
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
-  <img width=64 height=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <span> REACT NATIVE </span>
-</div>
 
 ### Get in touch
 
